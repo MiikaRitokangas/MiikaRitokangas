@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Menk</h1>
+<h3 align="center">A software engineering student from Finland</h3>
 
-<!--
-**MiikaRitokangas/MiikaRitokangas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miikaritokangas" alt="miikaritokangas" /> </p>
 
-Here are some ideas to get you started:
+I like coffee and coding. Oh and also penguins! 🐧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miikaritokangas&show_icons=true" alt="miikaritokangas" /></p>
+
+<p align="center">
+<a href="https://menk.fi" target="_blank" rel="noopener">My website</a> | 
+<a href="https://linkedin.com/in/miika-ritokangas" target="_blank" rel="noopener">LinkedIn</a> | 
+<a href="https://www.instagram.com/miikamenk/" target="_blank" rel="noopener">Instagram</a>
+</p>
