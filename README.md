@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miikaritokangas" alt="github page views" /> </p>
 
-Neovim enthusiast. In my free time I do cad-modeling, coding and some light electronics design.
+Neovim and split keyboard enthusiast. In my free time I do cad-modeling, coding and some light electronics design.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miikaritokangas&show_icons=true" alt="github stats" /></p>
 
