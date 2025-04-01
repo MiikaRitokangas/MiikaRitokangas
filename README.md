@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Miika</h1>
-<h3 align="center">A full time Software engineer from Finland</h3>
+<h1 align="center">Welcome to my github page</h1>
+<h3 align="center">Full time full-stack software dev from Oulu, Finland🇫🇮</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miikaritokangas" alt="miikaritokangas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miikaritokangas" alt="github page views" /> </p>
 
-I enjoy 3d modeling, programming, designing and building keyboards!
+Neovim enthusiast. In my free time I do cad-modeling, coding and some light electronics design.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miikaritokangas&show_icons=true" alt="miikaritokangas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miikaritokangas&show_icons=true" alt="github stats" /></p>
 
 <p align="center">
 <a href="https://menk.fi" target="_blank" rel="noopener">My website</a> | 
-<a href="https://linkedin.com/in/miika-ritokangas" target="_blank" rel="noopener">LinkedIn</a> | 
+<a href="https://linkedin.com/in/miika-ritokangas" target="_blank" rel="noopener">Linkedin</a>
 </p>
